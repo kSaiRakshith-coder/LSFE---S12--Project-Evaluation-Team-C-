@@ -2,7 +2,7 @@
 Team-C  
 * 2620030700 - G.Sriteja  
 * 2620030023 - K.Sai Rakshith  
-* 2620090006- N.Harsha  
+* 2620090006- Nachu Durga Sai Harsha  
 * 2620040183-Harivansh
 
 Question:-
