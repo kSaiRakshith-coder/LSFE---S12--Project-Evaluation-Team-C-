@@ -1,7 +1,7 @@
 # LSFE-S12-Project Evaluation Team-C
 Team-C  
 * 2620030700 - G.Sriteja  
-* 2620030023 - K.Sai Rakshith  
+* 2620030023 - Kurri Sai Rakshith  
 * 2620090006- Nachu Durga Sai Harsha  
 * 2620040183-Harivansh
 
